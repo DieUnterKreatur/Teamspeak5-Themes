@@ -1,0 +1,32 @@
+{
+  "name": "Test themes",
+  "description": "This is an example theme, making everything purple",
+  "version": "1.0.0",
+  "identifier": "de.dieunterkreatur.teamspeak",
+  "engines": {
+    "teamspeak": 1
+  },
+  "repository": {
+    "url": "https://github.com/DieUnterKreatur/teamspeak5-themes",
+    "directory": "purple",
+    "type": "git"
+  },
+  "image": "preview.png",
+  "license": "MIT",
+  "author": {
+    "name": "Julian",
+    "email": "Info@dieunterkreatur.de",
+    "url": "Https://dieunterkreatur.de",
+    "userTag": "DieUnterKreatur@myteamspeak.com"
+  },
+  "content": {
+    "themes": [
+      {
+        "name": "test Theme",
+        "source": "test.css",
+        "image": "icon.jpg",
+        "apiVersion": 1
+      }
+    ]
+  }
+}
