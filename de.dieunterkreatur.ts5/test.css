@@ -1,0 +1,7 @@
+:root { /* custom value*/
+    /* accent color in hsl used to compute shades automatically */
+    /* default: 36, 94%, 48% */
+    --hue: 36;
+    --saturation: 94%;
+    --lightness: 48%;
+}
